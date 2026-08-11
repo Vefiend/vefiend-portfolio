@@ -9,5 +9,7 @@
     }
   ],
   "theme": "modular",
-  "cssUrl": "https://raw.githubusercontent.com/SEELE1306/Modular/release/modular.theme.css"
+  "css": "https://raw.githubusercontent.com/SEELE1306/Modular/release/modular.theme.css",
+  "semanticColors": {},
+  "rawColors": {}
 }
