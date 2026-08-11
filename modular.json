@@ -1,0 +1,13 @@
+{
+  "name": "Modular",
+  "description": "A fully modular Discord theme that allows you to move and customize every UI element – servers, channels, user panel, and more.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "SEELE1306",
+      "url": "https://github.com/SEELE1306"
+    }
+  ],
+  "theme": "modular",
+  "cssUrl": "https://raw.githubusercontent.com/SEELE1306/Modular/release/modular.theme.css"
+}
